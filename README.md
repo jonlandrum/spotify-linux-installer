@@ -1,8 +1,8 @@
 # Spotify 1.0 installer for Linux
 Automatically download and install **latest** Spotify version on Linux.
-<br><br>
-![](https://github.com/paolorotolo/spotify-linux-installer/blob/master/artwork/spotify-opensuse.jpg)
-<br><br>
+
+![](https://notabug.org/jonlandrum/spotify-linux-installer/src/master/artwork/spotify-opensuse.jpg)
+
 
 ## How to install
 1. Clone the repo or download the archive [here](https://github.com/paolorotolo/spotify-linux-installer/archive/master.zip).
