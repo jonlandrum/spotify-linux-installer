@@ -1,6 +1,6 @@
 # Reason for this fork
 
-I first heard about this project on [r/openSUSE](https://www.reddit.com/r/openSUSE/comments/6j8m2j/spotify_10_installer_for_opensuse/djgmqb9/?context=8&depth=9). When I saw that u/PaoloRotolo needed help with making a `.spec` file, and realizing I had some spare cycles I could contribute, I forked the repo and got to work. The changes I made have since been merged into upstream.
+I first heard about this project on [r/openSUSE](https://www.reddit.com/r/openSUSE/comments/6j8m2j/spotify_10_installer_for_opensuse/). When I saw that u/PaoloRotolo needed help with making a `.spec` file, and realizing I had some spare cycles I could contribute, I forked the repo and got to work. The changes I made have since been merged into upstream.
 
 ---
 
